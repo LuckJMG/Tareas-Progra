@@ -1,0 +1,15 @@
+Resultado de la asignación del IFE
+Monto total asignado: $6153462
+Beneficiarios: 8
+
+Distribución por rangos de edad:
+
+Las personas entre 18 y 23 años representan un 25.0% del total de personas.
+La asignación para este rango corresponde a un 29.07% del monto total asignado.
+
+Las personas entre 24 y 55 años representan un 50.0% del total de personas.
+La asignación para este rango corresponde a un 46.89% del monto total asignado.
+
+Las personas entre 56 y 65 años representan un 25.0% del total de personas.
+La asignación para este rango corresponde a un 24.04% del monto total asignado.
+
